@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Uray Muhamad Noor Fajri Widiansyah</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+<h3 align="center">A dedicated frontend developer, specializing in React and 
+Angular Framework. My passion for this field motivates me to stay abreast of the latest industry trends, 
+ensuring my skills are always current. With a strong foundation in communication and interpersonal 
+abilities, I excel at collaborating with teams and stakeholders. As a quick learner and adept problem 
+solver, I'm well-equipped to adapt to new challenges. My focus is currently on Angular development, and I 
+am eager to bring my expertise to contribute meaningfully to an organization's success</h3>
 
 
 ## 🌐 Socials:
